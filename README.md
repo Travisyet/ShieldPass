@@ -12,5 +12,5 @@ when you click on <Generate> the Password is automatically copied in ClipBoard, 
 
 ## Installation
 
-## Clone the repository:
+### Clone the repository:
     git clone https://github.com/ton-username/ShieldPass.git
