@@ -1,4 +1,5 @@
 # ShieldPass - Password Generator
+![Description](Shield.png)
 
 ShieldPass is a simple and secure password generator that helps users create strong and random passwords .
 
@@ -14,4 +15,4 @@ when you click on <Generate> the Password is automatically copied in ClipBoard, 
 
 ### Clone the repository:
     git clone https://github.com/ton-username/ShieldPass.git
-![Description](Shield.png)
+
